@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m interested in understanding memory and learning of the human brain through AI
+- 🌱 I’m interested in understanding Memory and Learning of the Human Brain through AI
 - 🔭 I’m currently working on Image Segmentation for Healthcare Datasets
 
 - 💬 Feel free to reach out to me about projects we could talk about/collaborate on !!
