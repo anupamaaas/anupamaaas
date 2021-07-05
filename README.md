@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - ⚡ Fun fact: ...
 -->
-
+-
 -🔭I’m currently working on Image Segmentation for Healthcare Datasets
 - 🌱 I’m interested in understanding memory and learning of the human brain through AI
 - 💬 Feel free to reach out to me about projects we could talk about/collaborate on !!
