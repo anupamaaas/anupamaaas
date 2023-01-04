@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m interested in understanding Memory and Learning of the Human Brain through AI
-- 🔭 I’m currently working on Data Archival & Quality Control in Brain Imaging
+- 🔭 My latest work has been on Data Archival & Quality Control in Brain Imaging
 - 💬 Feel free to reach out to me about projects we could talk about/collaborate on !!
 - 📫 Drop me an [email](mailto:anupamaaa7@gmail.com)
 
