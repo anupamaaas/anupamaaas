@@ -1,4 +1,4 @@
-### Hi there ✨ I'm Anupama !!
+### Hi ✨ I'm Anupama !!
                                                                
 <!--
 **anupamaaas/anupamaaas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
