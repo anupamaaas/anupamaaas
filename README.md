@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m interested in understanding Memory and Learning of the Human Brain through AI
-- 🔭 My latest work has been on the image processing and neuron segmentation in two-photon images.
+- 🧠 My latest work has been on image processing (neuron segmentation) in two-photon images.
 - 💬 Feel free to reach out to me about projects we could talk about/collaborate on !!
 - 📫 Drop me an [email](mailto:anupamasudheer@duck.com)
 
