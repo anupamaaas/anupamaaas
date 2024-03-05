@@ -10,9 +10,9 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m interested in understanding Memory and Learning of the Human Brain through AI
-- 🔭 My latest work has been on Data Archival & Quality Control in Brain Imaging
+- 🔭 My latest work has been on the image processing and neuron segmentation in two-photon images.
 - 💬 Feel free to reach out to me about projects we could talk about/collaborate on !!
-- 📫 Drop me an [email](mailto:anupamaaa7@gmail.com)
+- 📫 Drop me an [email](mailto:anupamasudheer@duck.com)
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/anupama-s-2969aa176/)
 
