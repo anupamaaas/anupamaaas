@@ -7,13 +7,14 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - ⚡ Fun fact: ...
--->
 
 - 🌱 I’m interested in understanding Memory and Learning of the Human Brain through AI
-- 🧠 My latest work has been on image processing (neuron segmentation) in two-photon images.
+
+-->
+
+- 🧠 My latest work has been on LLM's for data and image processing.
 - 💬 Feel free to reach out to me about projects we could talk about/collaborate on !!
 - 📫 Drop me an [email](mailto:anupamasudheer@duck.com)
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/anupama-s-2969aa176/)
 
 
