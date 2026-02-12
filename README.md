@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 
 -->
 
-- 🧠 My latest work has been on LLM's for data and image processing.  
+- 🧠 Lately I have been working with llms for data and image processing.  
 - 💬 Feel free to reach out to me about projects we could talk about/collaborate on !!  
 - 📫 Drop me an [email](mailto:anupamasudheer@duck.com).  
